@@ -65,12 +65,12 @@ class Applecation{
     public function run()
     {
         $this->dispatcher = new Dispatcher($this->router->getData());
-        // try {
+        try {
             $response = $this->dispatcher->dispatch($this->request->getMethod(), $this->request->getUrlParse());
             echo $response;
-        // } catch (\Throwable $th) {
-        //     $this->response->redirect();
-        // }
+        } catch (\Throwable $th) {
+            $this->response->redirect();
+        }
     }
 
 

@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <h3 align="center">Wrispe web applecation</h3>
+  <h3 align="center">Wrispe</h3>
 
   <p align="center">
     <span>WARNING</span>: This project is for educational purposes, NOT FOR PRODUCTION!
