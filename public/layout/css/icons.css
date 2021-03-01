@@ -1,0 +1,16 @@
+.toggle-navbar-normal{
+    padding: 1px 15px;
+    width: 100%;
+    background-color: black;
+}
+.toggle-navbar-center{
+    padding: 1px 10px;
+    width: 80%;
+    margin:4px 0;
+    background-color: black;
+}
+.cir-dot{
+    padding: 2px;
+    border-radius: 50%;
+    background-color:black;
+}

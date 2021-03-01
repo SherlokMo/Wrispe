@@ -1,0 +1,85 @@
+.hightlighted-word-1{
+    color: #1c42ef;
+}
+.secondary-color{
+    background-color: white;
+}
+
+.main-padding{
+    padding: 10px;
+}
+.main-bottom-margin{
+    margin-bottom: 10px;
+}
+.main-bottom-border{
+    border-bottom:1px solid #b7b7b7;
+}
+.main-box{
+    border-radius: 4px;
+    padding: 10px 10px 10px 20px;
+    
+}
+#postContainer:last-child{
+    margin-bottom: 65px;
+}
+.circular-img-holder {
+	height: 70px;
+	width: 70px;
+    overflow: hidden;
+    background-color: #999192;
+    border-radius: 25%;
+}
+.circular-img-holder img{
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.navbar{
+    background-color: white;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;  
+}
+.btn-holder{
+    padding:5px 10px;
+    background-color: #2065FF;
+    border-radius: 3px;
+    color: white;
+}
+.not-Selected{
+    background-color: #eee4e4 !important;
+    color: black !important;
+}
+
+.whitebg{
+    background-color: white;
+    border-radius: 3px;
+    padding: 15px;
+}
+
+.inp{
+    padding: 3px;
+    background-color: transparent;
+    border-radius: 3px;
+    border:1px solid gray;
+    color: black;
+    outline: none;
+}
+
+.okayColor{
+    background-color: #0F9D58;
+    color: white;
+}
+
+.warnColor{
+    background-color: #DB4437;
+    color: white;
+}
+
+.m-button{
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
